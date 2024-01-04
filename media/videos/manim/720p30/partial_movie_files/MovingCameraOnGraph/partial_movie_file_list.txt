@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/MovingCameraOnGraph/64607777_3834165568_3535883693.mp4'
+file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/MovingCameraOnGraph/2887051006_2186916333_1534539982.mp4'
+file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/MovingCameraOnGraph/784041446_2144201532_3448538888.mp4'
+file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/MovingCameraOnGraph/3904436985_4042641242_1392035959.mp4'
