@@ -1,3 +1,3 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/SineCurveUnitCircle/2016333726_3794438852_2750170091.mp4'
-file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/SineCurveUnitCircle/543634251_1704852926_1720895489.mp4'
+file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/SineCurveUnitCircle/2016333726_3794438852_2429829059.mp4'
+file 'file:C:/Users/mcro0016/Documents/manim/media/videos/manim/720p30/partial_movie_files/SineCurveUnitCircle/543634251_1704852926_1382442373.mp4'
